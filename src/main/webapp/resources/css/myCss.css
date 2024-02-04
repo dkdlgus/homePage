@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	font-size: 15px;
+}
+
+.navbar-nav {
+	color: black;
+	font-size: 15px;
+}
+
+a {
+	color: black;
+}
+
+.vertical-line {
+    border-left: 1px solid #CCCCCC;
+    height: 40px; /* 세로줄의 높이를 조절하십시오. */
+    margin-left: 2px; /* 세로줄과 다른 컨텐츠 간의 간격을 조절하십시오. */
+}
